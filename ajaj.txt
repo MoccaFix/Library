@@ -1,0 +1,3 @@
+[Execute SQL Task] Error: Executing the query "exec [aes2].[MergeAllAES2FromStageODS];" failed with the following error: 
+"Invalid object name 'WI_StageODS.aes2.podsumowanie'.". 
+Possible failure reasons: Problems with the query, "ResultSet" property not set correctly, parameters not set correctly, or connection not established correctly.
